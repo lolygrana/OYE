@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build --base=/oye/",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d proyecto-oye",
     "predeploy": "npm run build"
   },
   "dependencies": {
