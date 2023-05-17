@@ -11,7 +11,7 @@ const App = () => {
       <section className="container">
       <div className="card cardPrincipal">
       <div className="card-body">
-        <div class="contenedor1">
+        <div className="contenedor1">
         <h5 className="card-title">Canciones gratis para la comunidad!</h5>
         <p className="card-text">En este sitio podras escuchar audios de manera libre.</p>
         <a href="#" className="btn-carrusel btn btn-primary">Ver Canciones</a>
